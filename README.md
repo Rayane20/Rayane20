@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayane20
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Html,CSS and JS later
+- 🌱 I’m currently learning Html,CSS and JS 
 - 💞️ I’m looking to collaborate on development website
 - 📫 How to reach me mail: rchaabane20@gmail.com or Discord: Ray_Killer[Faucheur]#9323
 
