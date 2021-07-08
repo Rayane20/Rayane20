@@ -1,0 +1,58 @@
+.btn {
+
+    text-align: center;
+
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+
+    letter-spacing: 0.5px;
+
+
+}
+
+.btn-box
+{
+    height: 100px;
+
+    width: 355px;
+
+    vertical-align: 20px;
+
+    text-align: center;
+
+    display: flex;
+
+    position: initial;
+
+    justify-content: center;
+
+    align-items: center;
+
+    border-radius: 95px;
+
+
+    font-size: 1.7em;
+
+    border: solid 10px darkgreen;
+
+    border-radius: 15em;
+
+    margin: 50px;
+}   
+
+
+.btn-box
+{
+ background: white;
+ 
+}
+.btn-box a
+{
+    color: black;
+} 
+
+
+

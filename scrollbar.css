@@ -1,0 +1,91 @@
+body{
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+::-webkit-scrollbar{
+
+    width: 25px;
+}
+
+::-webkit-scrollbar-track{
+
+    border: 4px solid #000000;
+
+    box-shadow: inset 0 0 2.5px 2px darkgrey;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background: linear-gradient(
+        45deg,
+        #FFE4E1,
+        DarkSlateGray
+    );
+    border-radius: 1px;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+@media all and (max-width: 480px)
+{
+	#bloc1{display: none;}
+}
+h1{
+	display: flex;
+
+    justify-content:center;
+
+    align-items: center;
+
+    text-align: center;
+
+    color: midnightblue;
+
+	letter-spacing: 1.5px;
+
+    font-size: 2.5em;
+
+    color: midnightblue;
+
+    margin-top: auto;	
+}
+h1>span{
+	font-size: 15px;
+	display: block;
+	letter-spacing: 2px;
+}
+p{
+	line-height: 35px;
+	font-size: 20px;
+	letter-spacing: 0.5px;
+	margin:0 20px 0 20px;
+}
+p:not(:last-child){
+	margin-bottom: 35px;
+}
+.my_bttn{
+	height: 45px;
+	width: 45px;
+	background-color:darkred;
+	border: none;
+	color: white;
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	border-radius: 5px;
+	cursor: pointer;
+	outline: none;
+	display: none;
+}
+.my_bttn:hover{
+	transform: scale(1.05) translateY(-2px);
+}
