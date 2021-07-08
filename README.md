@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ray
+- 👋 Hi, I’m @Rayane20
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Html,CSS and JS 
 - 💞️ I’m looking to collaborate on development website
